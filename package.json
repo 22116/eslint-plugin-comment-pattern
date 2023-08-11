@@ -4,6 +4,7 @@
   "description": "ESLint plugin to ensure comments consistency",
   "main": "src/index.js",
   "license": "MIT",
+  "keywords": ["eslint", "eslintplugin", "eslint-plugin", "comment", "pattern"],
   "authors": [
     {
       "name": "22116",
