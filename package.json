@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-comment-pattern",
+  "version": "1.0.0",
+  "description": "ESLint plugin to ensure comments consistency",
+  "main": "src/index.js",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "22116",
+      "email": "fedorenko22116@gmail.com"
+    },
+    {
+      "name": "ChatGPT by OpenAI",
+      "email": "no-email@openai.com"
+    }
+  ],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/22116/eslint-plugin-comment-pattern"
+  }
+}
